@@ -14,6 +14,7 @@ public class HelloController {
 	@GetMapping("v2/welcome")
 	public String helloWorldV2() {
 		return "Hello World from v2!!";
+this is rubbish
 	}
 
 }
